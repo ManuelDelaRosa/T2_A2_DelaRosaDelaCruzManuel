@@ -1,0 +1,48 @@
+body{
+	background-color: white;
+}
+
+
+h1{
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+
+}
+th.dias{
+	font-size: 15px;
+	font-family: Comic Sans, Arial, monospace;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+th{
+	border: 1px solid black;
+	background-color: white;
+}
+th.color_guindo{
+	font-size: 30px;
+	font-family: Comic Sans, Arial, monospace;
+	background-color: #b71c1c ;
+	color: white;
+}
+th.hora{
+	font-size: 12px;
+	font-family: Comic Sans, Arial, monospace;
+}
+
+th.color_guindo1{
+	font-size: 14px;
+	font-family: Comic Sans, Arial, monospace;
+	color: white;
+	background-color: #b71c1c ;
+}
+p{
+	font-size: 10px;
+	font-family: Comic Sans, Arial, monospace;
+}
+table th.clases:nth-child(6) {
+	
+	height: 50px;
+}
